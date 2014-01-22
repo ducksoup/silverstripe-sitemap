@@ -1,5 +1,5 @@
 {
-    "name": "ducksoupdev/silverstripe-sitemap",
+    "name": "ducksoupdev/sitemap",
     "description": "A module for SilverStripe that allows you to easily create sitemap pages.",
     "type": "silverstripe-module",
     "keywords": ["silverstripe", "sitemap"],
