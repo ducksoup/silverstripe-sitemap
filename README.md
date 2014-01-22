@@ -26,7 +26,7 @@ Installation Instructions
 Installation with Composer
 --------------------------
 
-    composer require "ducksoupdev/silverstripe-sitemap:*"
+    composer require "ducksoupdev/sitemap:*"
 
 Usage Overview
 --------------
